@@ -1,3 +1,9 @@
+<img width="717" height="583" alt="Notepad 3" src="https://github.com/user-attachments/assets/639b53f0-3f58-4098-9b41-92dcb11cc768" />
+
+
+<img width="716" height="576" alt="Thinkforu org notepad full image " src="https://github.com/user-attachments/assets/23e4b12d-85c1-43c5-81e0-c57979c1344d" />
+
+
 # 📝 Online Notepad - Free Text Editor | ThinkForU.org  
 
 [Try Online Notepad Now ➝](https://www.thinkforu.org/p/online-notepad-free-text-editor.html)  
